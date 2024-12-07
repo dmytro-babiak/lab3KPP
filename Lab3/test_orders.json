@@ -1,0 +1,25 @@
+[ {
+  "goods" : {
+    "name" : "Laptop"
+  },
+  "quantity" : 5,
+  "providers" : [ {
+    "companyName" : "TechSupplier",
+    "contractStartDate" : 1729861710979
+  }, {
+    "companyName" : "MobileWorld",
+    "contractStartDate" : 1729861710979
+  } ]
+}, {
+  "goods" : {
+    "name" : "Phone"
+  },
+  "quantity" : 10,
+  "providers" : [ {
+    "companyName" : "TechSupplier",
+    "contractStartDate" : 1729861710979
+  }, {
+    "companyName" : "MobileWorld",
+    "contractStartDate" : 1729861710979
+  } ]
+} ]
